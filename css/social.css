@@ -1,7 +1,7 @@
 
 .container-title p:first-child {
-  font-size: 50px;
-  color: #ffffff;
+  font-size: 100px;
+  color: #ffde00;
 }
 
 .border-bottom-h1 {
@@ -39,7 +39,11 @@
   padding: 100px 0px;
 }
 
+.videosA {
+  padding-top: 0px;
+}
+
 .videosD {
   border-bottom: 0px
-  
+
 }
