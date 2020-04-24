@@ -1,15 +1,4 @@
 
-.container-title {
-  position: relative;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  height: 230px;
-  background-color: #242944;
-  overflow: hidden;
-  padding: 10px;
-}
-
 .container-title p:first-child {
   font-size: 50px;
   color: #ffffff;
@@ -44,10 +33,9 @@
 .videosC,
 .videosD {
   position: relative;
-  background: #242944;
   margin: 0 auto;
   width: 90%;
-  border-bottom: 2px dashed #414141;
+  border-bottom: 2px dashed #f34a5d;
   padding: 100px 0px;
 }
 

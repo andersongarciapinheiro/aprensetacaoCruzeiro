@@ -1,14 +1,4 @@
 
-.container-title {
-  position: relative;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  height: 230px;
-  background-color: #242944;
-  overflow: hidden;
-  padding: 10px;
-}
 
 .container-title p:first-child {
   font-size: 50px;

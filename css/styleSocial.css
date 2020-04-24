@@ -18,8 +18,9 @@ body {
 	font-family: 'Roboto', sans-serif;
 	font-weight: bold;
 	overflow-x: hidden;
-	background-color: #242944;
+	background-color: #d06ad6;
 }
+
 
 .display-none {
 	display: none;
@@ -50,11 +51,23 @@ body {
 	transition: 0s;
 }
 
+.container-title {
+	position: relative;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	height: 230px;
+	background-color: #d06ad6;
+	overflow: hidden;
+	padding: 10px;
+  }
+  
+
 
 .wrap {
 	width: 100%;
 	text-align: center;
-	background-color: #242944;
+	background-color: #d06ad6;
 	margin-top: 80px;
 }
 
