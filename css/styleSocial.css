@@ -15,8 +15,6 @@ a {
 body {
 	padding: 0px;
 	margin: 0px;
-	font-family: 'Archivo Black';
-	letter-spacing: .6px;
 	font-weight: bold;
 	overflow-x: hidden;
 	background-color: #d06ad6;
@@ -31,9 +29,8 @@ body {
 	box-sizing: border-box;
 	background-color: #fff;
 	display: table;
-	width: 530px;
+	width: 100%;
 	height: 80px;
-	border-radius: 100px;
 	position: absolute;
 	left: 50%;
 	transform: translate(-50%);
