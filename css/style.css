@@ -1,6 +1,5 @@
 @charset "UTF-8";
 /* CSS Document */
-
 * {
 	border: 0;
 	padding: 0;
@@ -16,7 +15,6 @@ body {
 	padding: 0px;
 	margin: 0px;
 	overflow-x: hidden;
-	background-color: #d77396;
 }
 
 .display-none {
@@ -53,7 +51,6 @@ body {
 	align-items: center;
 	justify-content: center;
 	height: 300px;
-	background-color: #d77396;
 	overflow: hidden;
 	padding: 10px;
   }
@@ -63,7 +60,6 @@ body {
 .wrap {
 	width: 100%;
 	text-align: center;
-	background-color: #d77396;
 	margin-top: 80px;
 }
 

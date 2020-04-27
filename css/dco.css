@@ -1,18 +1,19 @@
+body {
+	background-color: #d1d773;
+}
 
 .container-title {
-  position: relative;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  height: 230px;
-  background-color: #242944;
-  overflow: hidden;
-  padding: 10px;
+	background-color: #d1d773;
+}
+
+.wrap {
+	background-color: #d1d773;
 }
 
 .container-title p:first-child {
-  font-size: 50px;
-  color: #ffffff;
+  font-size: 100px;
+  color: #844f9b;
+  text-transform: uppercase;
 }
 
 .border-bottom-h1 {
@@ -22,12 +23,10 @@
 
 }
 
-.creativity {
-  width: 100%;
-  max-width: 75%;
-  margin: auto;
-  margin-bottom: 200px;
+.standard {
+  padding-bottom: 300px
 }
+
 
 .grid {
   max-width: 1248px;
@@ -61,7 +60,6 @@
     width: 624px;
   }
 }
-
 
 @media (max-width:480px) {
   .grid {

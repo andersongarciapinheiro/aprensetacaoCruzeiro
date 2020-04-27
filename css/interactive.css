@@ -1,18 +1,18 @@
 body {
-	background-color: #d77396;
+	background-color: #ebbd59;
 }
 
 .container-title {
-	background-color: #d77396;
+	background-color: #ebbd59;
 }
 
 .wrap {
-	background-color: #d77396;
+	background-color: #ebbd59;
 }
 
 .container-title p:first-child {
   font-size: 100px;
-  color: #f3b632;
+  color: #14889c;
   text-transform: uppercase;
 }
 
