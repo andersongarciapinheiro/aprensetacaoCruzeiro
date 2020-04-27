@@ -15,12 +15,12 @@ a {
 body {
 	padding: 0px;
 	margin: 0px;
-	font-family: 'Avenir Next';
+	font-family: 'Archivo Black';
+	letter-spacing: .6px;
 	font-weight: bold;
 	overflow-x: hidden;
 	background-color: #d06ad6;
 }
-
 
 .display-none {
 	display: none;
